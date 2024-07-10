@@ -1,2 +1,2 @@
 # Visual-Question-Answering-System-
-This is the github for VQA Project
+Visual Question Answering (VQA) is an advanced AI domain requiring the intersection of Computer Vision (CV) and Natural Language Processing (NLP). This paper details the development and assessment of a VQA system that employs Convolutional Neural Networks (CNN) for image analysis and Recurrent Neural Networks (RNN) for processing textual queries. The aim is to provide an articulate and comprehensive account of the project from conception to evaluation, reflecting a deep understanding of the underlying technologies and a broad survey of resources.
